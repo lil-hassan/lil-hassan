@@ -5,7 +5,7 @@ CS Undergrad </div>
 - 🔭 I can build anything in Java, C++  
   
 
-- 🌱 I’m currently learning Data Science & Machine Learning  
+- 🌱 Currently learning Data Science & Machine Learning  
   
 
 <br/>  
