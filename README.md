@@ -1,4 +1,4 @@
-### <div align="center">I'm Hassan 
+### <div align="center">Hi, I'm Hassan 
 CS Undergrad </div>  
   
 
