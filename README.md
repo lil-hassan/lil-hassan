@@ -5,7 +5,7 @@ CS Undergrad </div>
 - 🔭 I can build anything in Java, C++  
   
 
-- 🌱 Currently exploring Data Science & Machine Learning  
+- 🌱 Currently exploring MERN, Machine Learning & AI Engineered Systems   
   
 
 <br/>  
